@@ -1,6 +1,12 @@
 
 # Module 1 Final Project
 
+## Repository Contents
+* presentation.pdf - Executive summary of the project for a non-technical audience
+* student.ipynb - Jupyter Notebook containing code written for the project for a technical audience
+* kc_house_data.csv - Provided dataset for the project
+* column_names.md - Provided descriptions of columns in the project dataset
+* Other Files (.gitignore, .learn, CONTRIBUTING.md, LICENSE.md, README.md, awesome.gif, module1_project_rubric.pdf) - forked repository files
 
 ## Introduction
 
